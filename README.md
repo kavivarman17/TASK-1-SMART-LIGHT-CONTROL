@@ -15,7 +15,7 @@
 #DESCRIPTION OF THE TASK :
  Task 1: Smart Light Control – IoT Internship (CODTECH)
 
-📘 Overview
+ Overview
 
 This project is part of my IoT internship with CODTECH. The objective is to design a simple smart light control system using an Arduino UNO and simulate app-based control using the Serial Monitor in Wokwi (an online Arduino simulator).
 
@@ -41,9 +41,9 @@ Tools Used
 - Simulating user input through Serial Monitor
 - Foundation for smart home automation systems
 
-✅ Status
+Status
 
-✅ Project successfully tested and working in Wokwi.
+Project successfully tested and working in Wokwi.
 Simulation Link
 
 [Click here to open in Wokwi](#) (https://wokwi.com/projects/435634313369198593)
