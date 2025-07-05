@@ -47,3 +47,8 @@ Project successfully tested and working in Wokwi.
 Simulation Link
 
 [Click here to open in Wokwi](#) (https://wokwi.com/projects/435634313369198593)
+
+#OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/60f6bd29-c5d0-40d7-ae84-16fc88e5381b" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/97841f88-5f04-4a86-aee4-b61e84208f97" />
